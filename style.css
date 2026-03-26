@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #333;
+    font-size: 1.2em;
+    padding: 1em;
+    text-align: center;
+    position:fixed;
+    width:100%;
+    top:0;
+    z-index: 1000;
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+display: inline;
+margin:0 1em;
+}
+li a{
+    color:#fff;
+}
+.main-content{
+    padding-top: 5em;
+    position:center;
+}
+#home{
+    font-size: 2.5em;
+    margin-bottom:0.5em;
+}
+#home p{
+    font-size: 1.2em;
+    colour:#666;
+}
+
