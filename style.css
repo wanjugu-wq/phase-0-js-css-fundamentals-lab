@@ -60,3 +60,15 @@ transition: transform(0.3s);
     width:100%;
     box-shadow:0 2px 5px rgba(0 ,0 ,0 ,0.1);
 }
+.portfolio-item:hover{
+    transform: scale(1.05);
+}
+#footer{
+    background-color: #222;
+    color:#fff;
+    padding:2em;
+    text-align:center;
+    position: relative;
+    bottom: 0;
+    width:100%;
+}
